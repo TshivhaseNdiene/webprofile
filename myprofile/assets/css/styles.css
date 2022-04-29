@@ -123,6 +123,9 @@ nav ul li {
   height: 37rem;
   width: 37.5rem;
 }
+img{
+ border-radius: 10px;
+}
 
 .bio {
   width: 25rem;
