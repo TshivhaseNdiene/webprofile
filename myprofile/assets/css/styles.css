@@ -139,6 +139,20 @@ nav ul li {
   line-height: var(--line-height);
   padding: 0.3rem 0;
 }
+
+.btn-Download{
+  background-color: DodgerBlue;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 11px;
+}
+
+.btn-Download:hover{
+  background-color: var(--secondary-color);
+}
 /* Hero section ends */
 
 /* More about */
