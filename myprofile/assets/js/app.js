@@ -29,12 +29,3 @@ scrollUp.addEventListener("click", () => {
     behavior: "smooth",
   });
 });
-
-//Download Button
-function download(fileUrl, fileName){
-  var a = document.createElement("a");
-  a.href = fileUrl;
-  a.setAttribute("download" fileName);
-  a.click();
-}
-download("cv/ndiene.pdf", "ndiene.pdf-");
