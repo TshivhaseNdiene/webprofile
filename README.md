@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# Ndiene Tshivhase
 
-You can use the [editor on GitHub](https://github.com/TshivhaseNdiene/webprofile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Profile Banner](url_to_your_banner_image)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi there! 👋 I'm a passionate web developer/designer and data science enthusiast. I love creating user-friendly websites and exploring data to gain insights.
 
-### Markdown
+## About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🌍 Location: [City, Country](Google Maps link)
+- 💼 Currently working at: [Company/Project Name](Company/Project URL)
+- 🎓 Graduated from: [University Name](University URL)
+- 🚀 My portfolio: [Portfolio Website](Portfolio URL)
+- 📧 Contact me: [Email](mailto:youremail@example.com)
 
-```markdown
-Syntax highlighted code block
+## Skills
 
-# Header 1
-## Header 2
-### Header 3
+### Web Development
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Node.js, Express.js
+- UI/UX Design: Adobe XD, Figma
+- Version Control: Git, GitHub
 
-- Bulleted
-- List
+### Data Science
+- Data Analysis: Python, Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn
+- Machine Learning: Scikit-Learn, TensorFlow
+- Jupyter Notebooks, SQL
 
-1. Numbered
-2. List
+## Portfolio Highlights
 
-**Bold** and _Italic_ and `Code` text
+### Web Project: [Project Name](Project URL)
 
-[Link](url) and ![Image](src)
-```
+Short project description and key features.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![Project Screenshot](url_to_project_screenshot)
 
-### Jekyll Themes
+### Data Science Project: [Project Name](Project URL)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TshivhaseNdiene/webprofile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Short project description, dataset insights, and key findings.
 
-### Support or Contact
+![Project Visualization](url_to_project_visualization)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Blog
+
+Check out my latest blog posts on web development, data science, and design:
+
+- [Title of Blog Post 1](Blog Post 1 URL)
+- [Title of Blog Post 2](Blog Post 2 URL)
+
+## Connect with Me
+
+Let's connect and collaborate:
+
+- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- LinkedIn: [Your Name](LinkedIn URL)
+- Instagram: [@YourInstagramHandle](https://www.instagram.com/YourInstagramHandle)
+
+Feel free to reach out if you have any questions or if you'd like to work together on a project!
+
+## GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
