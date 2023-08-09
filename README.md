@@ -1,6 +1,6 @@
 # Ndiene Tshivhase
 
-![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Ft%2FEAEeOQwo3jY-purple-mountain-vintage-retro-twitch-banner%2F&psig=AOvVaw1yLVej4fsYJb7iwAaSb1iw&ust=1691661300634000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD8osqnz4ADFQAAAAAdAAAAABAE)
+![Profile Banner]()
 
 Hi there! 👋 I'm a passionate web developer/designer and data science enthusiast. I love creating user-friendly websites and exploring data to gain insights.
 
@@ -8,7 +8,7 @@ Hi there! 👋 I'm a passionate web developer/designer and data science enthusia
 
 - 🌍 Location: [City, Country](Google Maps link)
 - 💼 Currently working at: [Company/Project Name](Company/Project URL)
-- 🎓 Graduated from: [University Name](University URL)
+- 🎓 Graduated from: [University Name](https://www.vut.ac.za/)
 - 🚀 My portfolio: [Portfolio Website](Portfolio URL)
 - 📧 Contact me: [Email](mailto:youremail@example.com)
 
